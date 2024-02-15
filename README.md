@@ -1,1 +1,1 @@
-Website github pages link: https://binebolcina.github.io/Nike/
+Github pages link: https://binebolcina.github.io/Nike/
